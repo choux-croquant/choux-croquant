@@ -1,6 +1,6 @@
 ### 🧑‍💻 About Me
 
-- Software Engineer
+- Software Engineer in Korea
 - [Blog](https://choux-croquant.github.io/)
 
 ---
@@ -8,6 +8,7 @@
 ### 📚 Interests
 
 - Game & Web
+- Simulation
 - Computer graphics
 - Game engine internals
 
